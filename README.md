@@ -1,9 +1,11 @@
-# About me
+## About me
 - Inha university Bachelor
 - I want to be a HW, FW engineer
 
-# Channel
+## Channel
 - [Blog](https://record-of-suhun.tistory.com/)
+
+## My Study
 
 <!--
 **CSHhyeon/CSHhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
