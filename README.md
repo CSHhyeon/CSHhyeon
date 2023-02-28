@@ -1,6 +1,6 @@
 ## About me
 - Inha university Bachelor
-- I want to be a HW, FW engineer
+- I want to be a BackEnd engineer
 
 ## Channel
 - [Blog](https://record-of-suhun.tistory.com/)
