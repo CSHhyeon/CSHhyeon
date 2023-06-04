@@ -2,6 +2,8 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=Hello)
 </div>
 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+
 ## About me
 - Inha university Bachelor
 - I want to be a BackEnd engineer
