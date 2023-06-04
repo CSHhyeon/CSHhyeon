@@ -47,7 +47,6 @@
   </div>
 
 ## 💌 Contact
- <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 - [Blog](https://record-of-suhun.tistory.com/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
