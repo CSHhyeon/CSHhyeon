@@ -35,16 +35,6 @@
 </p>
 
 
-
-| ![CSHhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSHhyeon&show_icons=true&theme=radical) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suhun0821)](https://solved.ac/suhun0821/) |
-
-
-| :-------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
-
-
-![CSHhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSHhyeon&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suhun0821)](https://solved.ac/suhun0821/)
-
 ## 💪Skills
  <div>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
