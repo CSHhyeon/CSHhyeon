@@ -18,15 +18,6 @@
   <li>최우수 훈련생 수상</li>
 </ul>
 
-## ✨ My Study
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CSHhyeon&show_icons=true&theme=radical" alt="CSHhyeon's GitHub stats"/>
-  <a href="https://solved.ac/suhun0821/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=suhun0821" alt="Solved.ac Profile"/>
-  </a>
-</p>
-
-
 ## 💪 Skills
  <div>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -50,6 +41,18 @@
 - [Blog](https://record-of-suhun.tistory.com/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
+
+## ✨ My Study
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CSHhyeon&show_icons=true&theme=radical" alt="CSHhyeon's GitHub stats"/>
+</p>
+
+<p align="center">
+  <a href="https://solved.ac/suhun0821/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=suhun0821" alt="Solved.ac Profile"/>
+  </a>
+</p>
+
 
 <!--
 **CSHhyeon/CSHhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
