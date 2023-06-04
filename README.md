@@ -38,17 +38,20 @@
   </div>
 
 ## 💌 Contact
-- [Blog](https://record-of-suhun.tistory.com/)
+<div align=center>
+	<a href="https://record-of-suhun.tistory.com">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+</div>
 
 ## ✨ My Study
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CSHhyeon&show_icons=true&theme=radical" alt="CSHhyeon's GitHub stats"/>
-</p>
-
 <p align="center">
   <a href="https://solved.ac/suhun0821/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=suhun0821" alt="Solved.ac Profile"/>
   </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CSHhyeon&show_icons=true&theme=radical" alt="CSHhyeon's GitHub stats"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
