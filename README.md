@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SooHyeon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-- Inha university Bachelor
-- I want to be a BackEnd engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SooHyeon's Github&fontSize=50&animation=fadeIn" />
 
-## Channel
-- [Blog](https://record-of-suhun.tistory.com/)
+<h3>Inha University Bachelor</h3>
+<p>Electronic Engineering (2019.03 - 2023.08)</p>
 
-## My Study
+<h3>Mona </h3>
+
+## ✨ My Study
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CSHhyeon&show_icons=true&theme=radical" alt="CSHhyeon's GitHub stats"/>
   <a href="https://solved.ac/suhun0821/">
@@ -15,7 +16,7 @@
 </p>
 
 
-## 💪Skills
+## 💪 Skills
  <div>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -33,6 +34,12 @@
     <img src="https://img.shields.io/badge/ajax-0769AD?style=for-the-badge">
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   </div>
+
+## 💌 Contact
+ <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+- [Blog](https://record-of-suhun.tistory.com/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer"/>
 
 <!--
 **CSHhyeon/CSHhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
