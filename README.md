@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SooHyeon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SooHyeon's Github&fontSize=50&animation=fadeIn" />
 
