@@ -8,18 +8,25 @@
 
 ## My Study
 
-<table>
-  <thead>
-   <tr>
-    <th>
-     ![CSHhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSHhyeon&show_icons=true&theme=radical)    
-    </th>
-    <th>
-     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suhun0821)](https://solved.ac/suhun0821/)    
-    </th>
-   <tr>
-  </thead>
+<div align="center">
+
+<table border="0">
+<tr>
+<td>
+  
+![CSHhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSHhyeon&show_icons=true&theme=radical)
+  
+</td>
+<td>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suhun0821)](https://solved.ac/suhun0821/)
+  
+</td>
+</tr>
 </table>
+
+</div>
+
 
 | ![CSHhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSHhyeon&show_icons=true&theme=radical) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suhun0821)](https://solved.ac/suhun0821/) |
 | :-------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
