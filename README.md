@@ -1,5 +1,5 @@
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello&color=gradient)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=Hello)
 </div>
 
 ## About me
