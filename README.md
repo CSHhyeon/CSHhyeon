@@ -3,7 +3,15 @@
 <h3>Inha University Bachelor</h3>
 <p>Electronic Engineering (2019.03 - 2023.08)</p>
 
-<h3>Mona </h3>
+<h3>Mona Internship</h3>
+<p>UI Developer Intern(2022.08 - 2022.12)</p>
+
+<h3>Multicampus KDT JAVA Back-End Developer Camp 8th</h3>
+<p>(2023.01 - 2023.05)</p>
+<ul>
+  <li>프로젝트 최우수상 수상</li>
+  <li>최우수 훈련생 수상</li>
+</ul>
 
 ## ✨ My Study
 <p align="center">
