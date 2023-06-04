@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=SooHyeon&color=gradient&height=200&section=header&text=Hello&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&text=SooHyeon&color=gradient&height=200&section=header&text=Hello&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 ## About me
 - Inha university Bachelor
