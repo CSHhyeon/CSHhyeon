@@ -1,6 +1,4 @@
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SooHyeon'sGithub&fontSize=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SooHyeon's_Github&fontSize=70&animation=fadeIn&fontAlignY=55" />
 
 <h3>Inha University Bachelor</h3>
 <p>Electronic Engineering (2019.03 - 2023.08)</p>
