@@ -1,4 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SooHyeon's_Github&fontSize=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SooHyeon's%20Github&fontSize=60&animation=fadeIn" />
+
+<div align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=CSHhyeon&show_icons=true&theme=dracula&hide="/>
+ 
+  ### 🐣 Choi SooHyeon 🐥 
+ 
+ <a href="https://github.com/CSHhyeon"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCSHhyeon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
+ ---
+
+🍏 [**seondal.log**](https://velog.io/@seondal) 🍏 공부기록 개발블로그
+ 
+🍊 [**Seondalgorithm**](https://whkakrkr.tistory.com) 🍊 알고리즘 문풀기록장
+ 
+ <br>
+ 
+</div>
+  
+ ---
+ 
+ <br>
 
 <h3>Inha University Bachelor</h3>
 <p>Electronic Engineering (2019.03 - 2023.08)</p>
@@ -38,9 +58,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
   </div>
 
-<div align=center>
-	<p>💌 Contact</p>
-</div>
+## 💌 Contact
 <div align=center>
 	<a href="https://record-of-suhun.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
