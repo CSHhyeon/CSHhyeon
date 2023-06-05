@@ -40,12 +40,6 @@
   </div>
 
 ## 💌 Contact
-<div align=center>
-	<a href="https://record-of-suhun.tistory.com">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	</a>
-</div>
-
 <div align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=CSHhyeon&show_icons=true&theme=dracula&hide="/>
  
@@ -56,14 +50,12 @@
 
 🍏 [**Soohyeon.log**](https://record-of-suhun.tistory.com/) 🍏 공부기록 개발블로그
  
-🍊 [**Soohyeon.log**](https://record-of-suhun.tistory.com/) 🍊 알고리즘 문풀기록장
+🍊 [**_so.0h_.instagram**](https://www.instagram.com/_so.0h_/) 🍊 여행스타그램
  
  <br>
  
 </div>
   
-
- 
  <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
