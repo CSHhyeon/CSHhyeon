@@ -5,18 +5,18 @@
  
   ### 🐣 Choi SooHyeon 🐥 
  
- <a href="https://github.com/CSHhyeon"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCSHhyeon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
+ <a href="https://github.com/CSHhyeon"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCSHhyeon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/suhun0821"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=suhun0821"/></a>
  ---
 
-🍏 [**seondal.log**](https://velog.io/@seondal) 🍏 공부기록 개발블로그
+🍏 [**Soohyeon.log**](https://record-of-suhun.tistory.com/) 🍏 공부기록 개발블로그
  
-🍊 [**Seondalgorithm**](https://whkakrkr.tistory.com) 🍊 알고리즘 문풀기록장
+🍊 [**Soohyeon.log**](https://record-of-suhun.tistory.com/) 🍊 알고리즘 문풀기록장
  
  <br>
  
 </div>
   
- ---
+
  
  <br>
 
