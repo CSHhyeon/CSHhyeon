@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SooHyeon's%20Github&fontSize=60&animation=fadeIn" />
 
-## Introduction ✨
+## ✨ Introduction
 <div align="center">
  <h4>안녕하세요! 강남 건물주를 꿈꾸는 최수현입니다.</h4>
  <h4>웹 개발에 관심이 많으며 현재 백엔드를 공부 중입니다!</h4>
