@@ -45,8 +45,7 @@
   
  <br>
 
-## ⏳ TimeLine
-  <img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
+## ⏳<img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" /> TimeLine
 <h3>Inha University Bachelor</h3>
 <p>Electronic Engineering (2019.03 - 2023.08)</p>
 
