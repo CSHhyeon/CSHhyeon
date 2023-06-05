@@ -4,7 +4,7 @@
 <p>안녕하세요! 강남 건물주를 꿈꾸는 최수현입니다. <br> 웹 개발에 관심이 많으며 현재 백엔드를 공부 중입니다!</p>
 
 ## 💪 Skills
- <div align=center>
+ <div>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
