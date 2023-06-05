@@ -1,5 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SooHyeon's%20Github&fontSize=60&animation=fadeIn" />
 
+<div align=center>
+	<h3>✨ Introduction ✨</h3>
+	<p>안녕하세요! 강남 건물주를 꿈꾸는 최수현입니다. <br> 웹 개발에 관심이 많으며 현재 백엔드를 공부 중입니다!</p>
+</div>
+
 ## ✨ Introduction
 <p>안녕하세요! 강남 건물주를 꿈꾸는 최수현입니다. <br> 웹 개발에 관심이 많으며 현재 백엔드를 공부 중입니다!</p>
 
@@ -23,25 +28,6 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
   </div>
 
-## TimeLine
-<h3>Inha University Bachelor</h3>
-<p>Electronic Engineering (2019.03 - 2023.08)</p>
-
-<h3>Mona Internship</h3>
-<p>(2022.08 - 2022.12)</p>
-<ul>
-  <li>펌웨어 다운로더 개발</li>
-  <li>수소연료전지 장비제어 프로그램 개발</li>
-</ul>
-
-<h3>Multicampus KDT JAVA Back-End Developer Camp 8th</h3>
-<p>(2023.01 - 2023.05)</p>
-<ul>
-  <li>편의점 관련 종합 웹사이트 개발(foodiefair)</li>
-  <li>프로젝트 최우수상 수상</li>
-  <li>최우수 훈련생 수상</li>
-</ul>
-
 ## 💌 Contact
 <div align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=CSHhyeon&show_icons=true&theme=dracula&hide="/>
@@ -60,5 +46,24 @@
 </div>
   
  <br>
+
+## ⏳ TimeLine
+<h3>Inha University Bachelor</h3>
+<p>Electronic Engineering (2019.03 - 2023.08)</p>
+
+<h3>Mona Internship</h3>
+<p>(2022.08 - 2022.12)</p>
+<ul>
+  <li>펌웨어 다운로더 개발</li>
+  <li>수소연료전지 장비제어 프로그램 개발</li>
+</ul>
+
+<h3>Multicampus KDT JAVA Back-End Developer Camp 8th</h3>
+<p>(2023.01 - 2023.05)</p>
+<ul>
+  <li>편의점 관련 종합 웹사이트 개발(foodiefair)</li>
+  <li>프로젝트 최우수상 수상</li>
+  <li>최우수 훈련생 수상</li>
+</ul>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
