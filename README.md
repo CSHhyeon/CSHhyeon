@@ -38,7 +38,9 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
   </div>
 
-## 💌 Contact
+<div align=center>
+	<p>💌 Contact</p>
+</div>
 <div align=center>
 	<a href="https://record-of-suhun.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
