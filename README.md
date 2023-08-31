@@ -66,4 +66,10 @@
   <li>최우수 훈련생 수상</li>
 </ul>
 
+<h3>Tmax Tibero</h3>
+<p>(2023.07 - ing...)</p>
+<ul>
+  <li>Super TIbero - TBM 모듈 개발</li>
+</ul>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
