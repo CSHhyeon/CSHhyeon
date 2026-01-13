@@ -3,7 +3,7 @@
 ## ✨ Introduction
 <div align="center">
  <h4>안녕하세요! 테크 리더를 꿈꾸는 최수현입니다.</h4>
- <h4>웹 개발에 관심이 많으며 현재 백엔드를 공부 중입니다!</h4>
+ <h4>웹 개발에 관심이 많으며 현재 프론트엔드를 공부 중입니다!</h4>
 </div>
 
 ## 💪 Skills
@@ -63,9 +63,13 @@
 </ul>
 
 <h3>Tmax Tibero</h3>
-<p>(2023.07 - ing...)</p>
+<p>(2023.07 - 2025.01.10)</p>
 <ul>
-  <li>Super TIbero - TBM 모듈 개발</li>
+  <li>Super Tibero - TBM 모듈 개발[데이터베이스 엔진 개발]</li>
+</ul>
+<p>(2025.01.13 - ing)</p>
+<ul>
+ <li>SysmasterDB 프론트엔드 개발</li>
 </ul>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
